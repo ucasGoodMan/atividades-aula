@@ -15,7 +15,7 @@
       <div class="input1">
         <input class="input" type="user" placeholder="User" name="user" id="user " />
         <br>
-        <input class="input" type=" password" placeholder="Senha" name="senha" id="senha" />
+        <input class="input" type="password" placeholder="Senha" name="senha" id="senha" />
         <br>
         <input type="submit" value="Login" class="btn-login" id="botao" />
       </div>
